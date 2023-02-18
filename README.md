@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## Project Description
+
+This is a webpage that displays an image gallery of NASA and also shows locations 
+
+## Tools/Technologies Used
+Uses React Hooks such as useState and useEffect to fetch and update data from an external API called "NASA API"
+
+## Installation of Packages command line
+npm run dev
+
 ## Getting Started
 
 First, run the development server:
